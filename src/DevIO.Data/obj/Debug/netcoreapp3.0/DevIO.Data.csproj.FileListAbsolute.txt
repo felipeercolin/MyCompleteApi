@@ -1,0 +1,13 @@
+E:\_Dados_Maxdata\01_Desenvolvimento\_Aprendizado\MyCodes\MyCompleteApi\src\DevIO.Data\bin\Debug\netcoreapp3.0\DevIO.Business.dll
+E:\_Dados_Maxdata\01_Desenvolvimento\_Aprendizado\MyCodes\MyCompleteApi\src\DevIO.Data\obj\Debug\netcoreapp3.0\DevIO.Data.csprojAssemblyReference.cache
+E:\_Dados_Maxdata\01_Desenvolvimento\_Aprendizado\MyCodes\MyCompleteApi\src\DevIO.Data\obj\Debug\netcoreapp3.0\DevIO.Data.AssemblyInfoInputs.cache
+E:\_Dados_Maxdata\01_Desenvolvimento\_Aprendizado\MyCodes\MyCompleteApi\src\DevIO.Data\obj\Debug\netcoreapp3.0\DevIO.Data.AssemblyInfo.cs
+E:\_Dados_Maxdata\01_Desenvolvimento\_Aprendizado\MyCodes\MyCompleteApi\src\DevIO.Data\bin\Debug\netcoreapp3.0\DevIO.Data.deps.json
+E:\_Dados_Maxdata\01_Desenvolvimento\_Aprendizado\MyCodes\MyCompleteApi\src\DevIO.Data\bin\Debug\netcoreapp3.0\DevIO.Data.runtimeconfig.json
+E:\_Dados_Maxdata\01_Desenvolvimento\_Aprendizado\MyCodes\MyCompleteApi\src\DevIO.Data\bin\Debug\netcoreapp3.0\DevIO.Data.runtimeconfig.dev.json
+E:\_Dados_Maxdata\01_Desenvolvimento\_Aprendizado\MyCodes\MyCompleteApi\src\DevIO.Data\bin\Debug\netcoreapp3.0\DevIO.Data.dll
+E:\_Dados_Maxdata\01_Desenvolvimento\_Aprendizado\MyCodes\MyCompleteApi\src\DevIO.Data\bin\Debug\netcoreapp3.0\DevIO.Data.pdb
+E:\_Dados_Maxdata\01_Desenvolvimento\_Aprendizado\MyCodes\MyCompleteApi\src\DevIO.Data\bin\Debug\netcoreapp3.0\DevIO.Business.pdb
+E:\_Dados_Maxdata\01_Desenvolvimento\_Aprendizado\MyCodes\MyCompleteApi\src\DevIO.Data\obj\Debug\netcoreapp3.0\DevIO.Data.csproj.CopyComplete
+E:\_Dados_Maxdata\01_Desenvolvimento\_Aprendizado\MyCodes\MyCompleteApi\src\DevIO.Data\obj\Debug\netcoreapp3.0\DevIO.Data.dll
+E:\_Dados_Maxdata\01_Desenvolvimento\_Aprendizado\MyCodes\MyCompleteApi\src\DevIO.Data\obj\Debug\netcoreapp3.0\DevIO.Data.pdb

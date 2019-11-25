@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DevIO.Api</name>
+    </assembly>
+    <members>
+        <member name="P:DevIO.Api.Extentions.AppSettings.Secret">
+            <summary>
+            Chave do Token
+            </summary>
+        </member>
+        <member name="P:DevIO.Api.Extentions.AppSettings.ExiperacaoHoras">
+            <summary>
+            Quantidade de Horas que o Token irá Expirar
+            </summary>
+        </member>
+        <member name="P:DevIO.Api.Extentions.AppSettings.Emissor">
+            <summary>
+            Quem está Emitindo, no caso, a aplicação...
+            </summary>
+        </member>
+        <member name="P:DevIO.Api.Extentions.AppSettings.ValidoEm">
+            <summary>
+            Quais Urls o Token é Valido.
+            </summary>
+        </member>
+        <member name="P:DevIO.Api.ViewModel.ProdutoImagemViewModel.ImagemUpload">
+            <summary>
+            Representa os dados da Imagem a ser Feito Upload.
+            Streamming do Arquivo.
+            </summary>
+        </member>
+        <member name="P:DevIO.Api.ViewModel.ProdutoImagemViewModel.Imagem">
+            <summary>
+            Represanta a Imagem que vem do Banco de Dados.
+            Nome da Imagem
+            </summary>
+        </member>
+        <member name="P:DevIO.Api.ViewModel.ProdutoViewModel.ImagemUpload">
+            <summary>
+            Representa os dados da Imagem a ser Feito Upload.
+            Serealizada em BASE64.
+            </summary>
+        </member>
+        <member name="P:DevIO.Api.ViewModel.ProdutoViewModel.Imagem">
+            <summary>
+            Represanta a Imagem que vem do Banco de Dados.
+            Nome da Imagem
+            </summary>
+        </member>
+    </members>
+</doc>

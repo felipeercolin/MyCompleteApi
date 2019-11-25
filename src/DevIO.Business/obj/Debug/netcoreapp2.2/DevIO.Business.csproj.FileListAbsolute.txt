@@ -1,0 +1,17 @@
+E:\_Dados_Maxdata\01_Desenvolvimento\_Aprendizado\MyCodes\MyCompleteApi\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.deps.json
+E:\_Dados_Maxdata\01_Desenvolvimento\_Aprendizado\MyCodes\MyCompleteApi\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.dll
+E:\_Dados_Maxdata\01_Desenvolvimento\_Aprendizado\MyCodes\MyCompleteApi\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.pdb
+E:\_Dados_Maxdata\01_Desenvolvimento\_Aprendizado\MyCodes\MyCompleteApi\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.csprojAssemblyReference.cache
+E:\_Dados_Maxdata\01_Desenvolvimento\_Aprendizado\MyCodes\MyCompleteApi\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.AssemblyInfoInputs.cache
+E:\_Dados_Maxdata\01_Desenvolvimento\_Aprendizado\MyCodes\MyCompleteApi\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.AssemblyInfo.cs
+E:\_Dados_Maxdata\01_Desenvolvimento\_Aprendizado\MyCodes\MyCompleteApi\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.dll
+E:\_Dados_Maxdata\01_Desenvolvimento\_Aprendizado\MyCodes\MyCompleteApi\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.pdb
+E:\_Dados_Maxdata\01_Desenvolvimento\_Aprendizado\MyCodes\MyCompleteApi\core22\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.deps.json
+E:\_Dados_Maxdata\01_Desenvolvimento\_Aprendizado\MyCodes\MyCompleteApi\core22\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.dll
+E:\_Dados_Maxdata\01_Desenvolvimento\_Aprendizado\MyCodes\MyCompleteApi\core22\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.pdb
+E:\_Dados_Maxdata\01_Desenvolvimento\_Aprendizado\MyCodes\MyCompleteApi\core22\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.csprojAssemblyReference.cache
+E:\_Dados_Maxdata\01_Desenvolvimento\_Aprendizado\MyCodes\MyCompleteApi\core22\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.AssemblyInfoInputs.cache
+E:\_Dados_Maxdata\01_Desenvolvimento\_Aprendizado\MyCodes\MyCompleteApi\core22\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.AssemblyInfo.cs
+E:\_Dados_Maxdata\01_Desenvolvimento\_Aprendizado\MyCodes\MyCompleteApi\core22\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.dll
+E:\_Dados_Maxdata\01_Desenvolvimento\_Aprendizado\MyCodes\MyCompleteApi\core22\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.pdb
+E:\_Dados_Maxdata\01_Desenvolvimento\_Aprendizado\MyCodes\MyCompleteApi\core22\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.csproj.CoreCompileInputs.cache
